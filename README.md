@@ -1,29 +1,34 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monnster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Csabel99
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+The following required functionality is completed:
 
-The following **optional** features are implemented:
+* [] The introduction section explains the background of the company and how many games remain unfunded.
+* [] The Stats section includes information about total contributions and dollars raised, as well as the top two most funded games.
+* [] The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
+* [] The Our Games section has three buttons that allow users to display only unfunded games, only funded games, or all games.
 
-* [ ] List anything else that you can get done to improve the app functionality!
+## Optional Features
+
+The following optional features are implemented:
+
+* [ ] Search functionality
+* [ ] Improved UI styling
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/walkthrough.gif" width="600" alt="Video Walkthrough" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,11 +39,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project helped me better understand JavaScript array methods and DOM manipulation. I struggled at times with reduce, filter, sort, and connecting event listeners, but by practicing and maintaining a strong willingness to learn, I became more comfortable and confident working with these concepts.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Abel Tapia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
